@@ -1,61 +1,21 @@
-<h2 align="left">Hi 👋! My name is Vivek Gupta and I'm a <br>💻 Full-Stack Enthusiast: Skilled in both frontend and backend technologies, crafting comprehensive solutions that work seamlessly.<br><br>🚀 Driven by Growth: Constantly upgrading my skill set and staying current with the latest tools and trends.<br><br>🧩 Problem Solver at Heart: Enjoys tackling complex challenges with a positive, solution-oriented mindset.<br><br>📚 Lifelong Learner: Always eager to explore new technologies and deepen my expertise.<br><br>🌟 Passionate and Impact-Focused: Strives to create meaningful, high-quality solutions that leave a lasting positive impact.</h2>
+# 💫 About Me:
+💻 Full-Stack Enthusiast: Skilled in both frontend and backend technologies, crafting comprehensive solutions that work seamlessly.<br><br>🚀 Driven by Growth: Constantly upgrading my skill set and staying current with the latest tools and trends.<br><br>🧩 Problem Solver at Heart: Enjoys tackling complex challenges with a positive, solution-oriented mindset.<br><br>📚 Lifelong Learner: Always eager to explore new technologies and deepen my expertise.<br><br>🌟 Passionate and Impact-Focused: Strives to create meaningful, high-quality solutions that leave a lasting positive impact.
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekgupta27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekgupta27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vivekgupta27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vivekgupta27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgupta27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vivekgupta27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="right" height="150" src="https://images8.alphacoders.com/133/1331191.png"  />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=vivekgupta27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="vg7756800@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/vivek-gupta-06b687209" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vivekgupta27/vivekgupta27/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
